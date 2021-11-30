@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection is focused on displaying the boldest dare devils of the 20th century. The three main individuals chosen are; Annie Edson Taylor, Henry Bellini, and Charles Blondin.  
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
